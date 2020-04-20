@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "Acessories",
+         "broj" : 2
+    },
+    {
+            "id" : 2,
+             "naziv" : "Beauty",
+                "broj" : 1
+     },
+    {
+           "id":3,
+            "naziv": "Decor",
+            "broj" : 1
+    },
+    {
+        "id":4,
+         "naziv": "Electronics",
+         "broj" : 1
+    }
+]

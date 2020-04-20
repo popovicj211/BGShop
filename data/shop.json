@@ -1,0 +1,200 @@
+[
+    {
+        "id":1,
+        "ime": "Quartz Belt Watch",
+        "zvezdice": {
+            "puna": 4,
+            "prazna": 1
+        },
+          "kategorija" : {
+                 "id" : 1,
+                  "ime" : "Accessories"
+          },
+          "slika" :{
+                "link" : "img/product/product1.png",
+                 "alt" : "Quartz Belt Watch"
+          },
+          "cena" : {
+              "stara" : 17000,
+                "nova" : 15300,
+            "popust" : 10
+          },
+           "boja" : {
+                 "id" : 1,
+                 "naziv" : "Black"
+           },
+             "brend" : {
+                       "id" : 1,
+                       "naziv" : "Casio" 
+             },
+               "pol":{
+                    "id" :1,
+                     "naziv" : "Man"
+               }
+    },
+    {
+        "id":2,
+        "ime": "Women Freshwash",
+        "zvezdice": {
+            "puna": 3,
+            "prazna": 2
+        },
+          "kategorija" : {
+                 "id" : 2,
+                  "ime" : "Beauty"
+          },
+          "slika" :{
+                "link" : "img/product/product2.png",
+                 "alt" : "Women Freshwash"
+          },
+          "cena" : {
+              "stara" : "" ,
+                "nova" : 200,
+            "popust": ""
+          },
+           "boja" : {
+                 "id" : 2,
+                 "naziv" : "White"
+           },
+           "brend" : {
+                     "id" : 2,
+                     "naziv" : "Garnier" 
+           }, 
+           "pol":{
+            "id" :2,
+             "naziv" : "Woman"
+       }
+    },
+    {
+        "id":3,
+        "ime": "Room Flash Light",
+        "zvezdice": {
+            "puna": 3,
+            "prazna": 2
+        },
+          "kategorija" : {
+                 "id" : 3,
+                  "ime" : "Decor"
+          },
+          "slika" :{
+                "link" : "img/product/product3.png",
+                 "alt" : "Room Flash Light"
+          },
+          "cena" : {
+              "stara" : 10000 ,
+                "nova" : 8000,
+                "popust" : 20
+          },
+           "boja" : {
+                 "id" : 2,
+                 "naziv" : "White"
+           },
+           "brend" : {
+                     "id" : 3,
+                     "naziv" : "Delux" 
+           }, 
+           "pol":{
+            "id" :3,
+             "naziv" : "Universal"
+       }
+    },
+    {
+        "id":4,
+        "ime": "Man Office Bag",
+        "zvezdice": {
+            "puna": 4,
+            "prazna": 1
+        },
+          "kategorija" : {
+                 "id" : 1,
+                  "ime" : "Accessories"
+          },
+          "slika" :{
+                "link" : "img/product/product5.png",
+                 "alt" : "Man Office Bag"
+          },
+          "cena" : {
+              "stara" :  "" ,
+                "nova" : 2000,
+               "popust": ""
+          },
+           "boja" : {
+                 "id" : 1,
+                 "naziv" : "Black"
+           },
+           "brend" : {
+                     "id" : 4,
+                     "naziv" : "Nike" 
+           }, 
+           "pol":{
+            "id" :1,
+             "naziv" : "Man"
+       }
+    },
+    {
+        "id":5,
+        "ime": "Blutooth Speaker",
+        "zvezdice": {
+            "puna": 3,
+            "prazna": 2
+        },
+          "kategorija" : {
+                 "id" : 4,
+                  "ime" : "Electronics"
+          },
+          "slika" :{
+                "link" : "img/product/product7.png",
+                 "alt" : "Blutooth Speaker"
+          },
+          "cena" : {
+              "stara" : 2500 ,
+                "nova" : 2250,
+                 "popust" : 10
+          },
+           "boja" : {
+                 "id" : 3,
+                 "naziv" : "Blue"
+           },
+           "brend" : {
+                     "id" : 5,
+                     "naziv" : "Samsung" 
+           }, 
+           "pol":{
+            "id" :3,
+             "naziv" : "Universal"
+       }
+    },
+    {
+      "id":6,
+      "ime": "Battery adapter",
+      "zvezdice": {
+          "puna": 3,
+          "prazna": 2
+      },
+        "kategorija" : {
+               "id" : 4,
+                "ime" : "Electronics"
+        },
+        "slika" :{
+              "link" : "img/product/product8.png",
+               "alt" : "Battery adapter"
+        },
+        "cena" : {
+            "stara" :  "" ,
+              "nova" : 3500,
+          "popust": ""
+        },
+         "boja" : {
+               "id" : 2,
+               "naziv" : "White"
+         },
+         "brend" : {
+                   "id" : 5,
+                   "naziv" : "Samsung" 
+         }, 
+         "pol":{
+          "id" :3,
+           "naziv" : "Universal"
+     }
+  }
+]

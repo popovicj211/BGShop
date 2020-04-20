@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "Black",
+        "broj" : 2
+    },
+    {
+            "id" : 2,
+             "naziv" : "White",
+             "broj" : 3
+    },
+    {
+           "id":3,
+            "naziv": "Blue",
+            "broj" : 1
+    }
+]

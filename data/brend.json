@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "Casio" ,
+         "broj" : 1
+        
+    },
+    {
+            "id" : 2,
+             "naziv" : "Garnier",
+         "broj" : 1
+    },
+    {
+           "id":3,
+            "naziv": "Delux",
+            "broj" : 1
+    }, 
+    {
+        "id":5,
+         "naziv": "Samsung",
+         "broj" : 2
+     },
+     {
+        "id":4,
+         "naziv": "Nike",
+         "broj" : 1
+    }
+]

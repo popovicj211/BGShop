@@ -1,0 +1,47 @@
+
+.blockProducts{
+    position: relative;
+    overflow: hidden;
+}
+
+.discount{
+
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    text-shadow: rgba(255,255,255,0.5) 0px 1px 0px;
+    background: #007bff;
+    border-radius: 50%;
+    padding: 22px;
+    left: -3px;
+    top: -10px;
+    opacity: 0.8;
+    -webkit-transform: rotate(-35deg);
+    -moz-transform: rotate(-35deg);
+    -ms-transform: rotate(-35deg);
+    -o-transform: rotate(-35deg);
+}
+
+.footerScroller{
+    position: relative;
+}
+#linkScrollerToTop{
+    border: 1px solid #fff;
+    position: absolute;
+    padding: 5px;
+    top: 0px;
+    right: 10px;
+    float: right;
+    background: #000;
+    font-size: 40px;
+}
+.sliderBlock{
+    left: 0px;
+    width: 300px;
+}
+.slider .container .blog-banner{
+    top: 50px;
+}
+
+#imagesSlider img { display: none; }
+#imagesSlider .activeSlider { display: block; }
